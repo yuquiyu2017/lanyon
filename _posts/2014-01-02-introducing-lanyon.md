@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Mandalas
 ---
 
 ![A stylized mandala](/images/mandala_color.png)
