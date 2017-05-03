@@ -2,7 +2,7 @@
 #
 
 permalink:           pretty
-relative_permalinks: false
+relative_permalinks: true
 
 
 # Setup
