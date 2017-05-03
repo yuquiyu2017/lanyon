@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mándala Verde
+title: Mandala Verde
 ---
 
 ![A green mandala](/images/m_2.JPG)
