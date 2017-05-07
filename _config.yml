@@ -8,8 +8,8 @@ permalink:           pretty
 title:               Mandalas
 tagline:             'Mensajes Positivos Para La Humanidad'
 description:         'Un proyecto de Delgado Photography y South First Media'
-url:                 yuquiyu2017.github.io
-baseurl:             'https://yuquiyu2017.github.io/'
+url:                 https://yuquiyu2017.github.io/
+baseurl:             ''
 paginate:            5
 
 # About/contact
