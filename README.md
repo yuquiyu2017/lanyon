@@ -1,4 +1,4 @@
-Mandalas es un proyecto colaborativo por Delgado Photography y South First Media. 
+<em>Mandalas</em> es un proyecto colaborativo por Delgado Photography y South First Media. 
 
 Deseamos regar mensajes positivos para la humanidad desde Puerto Rico y Hawaii. 
 
