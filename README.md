@@ -2,4 +2,4 @@ Mandalas es un proyecto collaborativo por Delgado Photography y South First Medi
 
 Deseamos regar mensajes positivos para la humanidad desde Puerto Rico y Hawaii. 
 
-Deseamos transformación através de la creatividad. 
+Deseamos transformación a través de la creatividad. 
