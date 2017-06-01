@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ContiGente
+title: ContinGente
 comments: true
 ---
 
