@@ -17,3 +17,19 @@ La idea crea una comunicación.
 La comunicación se disuelve en una emoción. 
 
 Acción. Forma. Imaginación. Caos. 
+
+---
+
+Chaos. Imagination. Form. Action. 
+
+Two people in two places; a photograph and a grafic create a concept. 
+
+The concept creates a representation. 
+
+The representation creates an idea. 
+
+The idea creates a communication. 
+
+The communication disolves in an emotion. 
+
+Action. Form. Imagination. Chaos. 
