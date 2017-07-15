@@ -3,7 +3,7 @@ layout: page
 title: Text0 - Puente
 ---
 
-El caos; la imaginación; la forma; la acción. 
+El caos. La imaginación. La forma. La acción. 
 
 Dos personas en dos lugares; 
 una fotografía y una gráfica crean un concepto. 
