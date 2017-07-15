@@ -20,7 +20,7 @@ Acción. Forma. Imaginación. Caos.
 
 ---
 
-Chaos. Imagination. Form. Action. 
+The chaos. The imagination. The form. The action. 
 
 Two people in two places; a photograph and a graphic create a concept. 
 
