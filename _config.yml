@@ -7,14 +7,14 @@ permalink:           pretty
 # Setup
 title:               Here & There
 tagline:             ''
-description:         'Here & There es un proyecto colaborativo por Delgado Photography y South First Media'
+description:         'Here & There es un proyecto colaborativo por Delgado & Delgado'
 url:                 yuquiyu2017.github.io
 baseurl:             'https://yuquiyu2017.github.io'
 paginate:            5
 
 # About/contact
 author:
-  name:              DP y SFM
+  name:              Delgado & Delgado
   url:               #
   email:             #
 
