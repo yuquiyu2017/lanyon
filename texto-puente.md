@@ -22,7 +22,7 @@ Acción. Forma. Imaginación. Caos.
 
 Chaos. Imagination. Form. Action. 
 
-Two people in two places; a photograph and a grafic create a concept. 
+Two people in two places; a photograph and a graphic create a concept. 
 
 The concept creates a representation. 
 
