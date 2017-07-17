@@ -5,8 +5,9 @@ title: Text0 - Puente
 
 El caos. La imaginación. La forma. La acción. 
 
-Dos personas en dos lugares; 
-una fotografía y una gráfica crean un concepto. 
+Dos personas en dos lugares. 
+
+Una fotografía y una gráfica crean un concepto. 
 
 El concepto crea una representación. 
 
@@ -22,7 +23,9 @@ Acción. Forma. Imaginación. Caos.
 
 The chaos. The imagination. The form. The action. 
 
-Two people in two places; a photograph and a graphic create a concept. 
+Two people in two places. 
+
+A photograph and a graphic create a concept. 
 
 The concept creates a representation. 
 
