@@ -9,3 +9,5 @@ title: About
   <em>Here & There</em> is a collaborative project by Delgado & Delgado.<br><br>We desire to spread positive messages for humanity from Puerto Rico and Hawaii.<br><br>We desire to instigate silent transformations through creativity.
 </p>
 
+eth: 0xF0edb8f5Ca1F2ECb72ea3D734724f9dE49f5beb0
+btc: 1HaUwWZjoqcJmPAPbPjgCUvdvkoc18JDuw
