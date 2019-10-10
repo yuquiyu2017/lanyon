@@ -7,14 +7,14 @@ permalink:           pretty
 # Setup
 title:               Here & There
 tagline:             ''
-description:         'Here & There es un proyecto colaborativo por Delgado & Delgado'
+description:         'Here & There is a collaborative art project.'
 url:                 yuquiyu2017.github.io
 baseurl:             'https://yuquiyu2017.github.io'
 paginate:            5
 
 # About/contact
 author:
-  name:              Delgado & Delgado
+  name:              Here & There
   url:               #
   email:             #
 
