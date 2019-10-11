@@ -6,15 +6,14 @@ title: Home
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
+    {{ post.content }}
+    <!-- <a href="https://yuquiyu2017.github.io{{ post.url }}#disqus_thread">0 Comments</a> -->
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
-
     <span class="post-date">{{ post.date | date_to_string }}</span>
-    {{ post.content }}
-    <!-- <a href="https://yuquiyu2017.github.io{{ post.url }}#disqus_thread">0 Comments</a> -->
   </div>
   {% endfor %}
 </div>
